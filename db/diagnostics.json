@@ -61,5 +61,14 @@
             "tip": "",
             "topic": ""
         }
+    },
+    {
+        "time": 1647450948488,
+        "error_id": "4e9bac97-00e1-4e80-b4a7-8e2eb1de1ef0",
+        "errors": {
+            "username": "Invalid username!",
+            "tip": "Tip must be at least 15 characters",
+            "topic": ""
+        }
     }
 ]
